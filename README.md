@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+For .glb file used "React, React Three Fiber, Three.js"
+three.js - 'npm install three'
+three fibre 'npm install three @react-three/fiber'
+
+used 'npm gltfjsx P1.glb' command for extracting file format into js
+
+(I have faced some issues reagarding displaying .glb files into browser and also unable to colaborate react and django as i have tried alot and i will do that thing definately)
+
+
+
