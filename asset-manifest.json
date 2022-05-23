@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Fabrik-Task/static/css/main.b8eb843e.css",
+    "main.js": "/Fabrik-Task/static/js/main.89cf97ea.js",
+    "static/js/787.6510997f.chunk.js": "/Fabrik-Task/static/js/787.6510997f.chunk.js",
+    "static/media/community-bg.png": "/Fabrik-Task/static/media/community-bg.6b417ba54bb1c6c01ba8.png",
+    "static/media/fabrik_full_logo.png": "/Fabrik-Task/static/media/fabrik_full_logo.b4d7d9a2708dce679252.png",
+    "index.html": "/Fabrik-Task/index.html",
+    "main.b8eb843e.css.map": "/Fabrik-Task/static/css/main.b8eb843e.css.map",
+    "main.89cf97ea.js.map": "/Fabrik-Task/static/js/main.89cf97ea.js.map",
+    "787.6510997f.chunk.js.map": "/Fabrik-Task/static/js/787.6510997f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8eb843e.css",
+    "static/js/main.89cf97ea.js"
+  ]
+}
